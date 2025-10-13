@@ -12,7 +12,7 @@ This repository contains **information and instructions** for requesting the **D
 
 ### 📜 License and Use  
 - Data use is restricted to **non-commercial academic research**.  
-- Any usage requires citation of the associated article: "citation"
+- Any usage requires citation of the associated article.
 
 ---
 
