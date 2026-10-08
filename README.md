@@ -1,4 +1,4 @@
-# Gene variants with an impact on chronic kidney diseases. A survey in the largest Afro-descendant population outside Africa
+# APOL1 Risk Genotypes and Sickle Cell Trait are Associated with Kidney Disease Progression in an Afro-Brazilian Population
 
 ### 📖 Description  
 This repository contains **information and instructions** for requesting the **DNA sequencing data** generated at the **Laboratório de Patologia Estrutural e Molecular (LAPEM)** from the Gonçalo Muniz Research Institute (Fiocruz-Bahia). The files of sequencing provided here are associated with the article under submission. 
